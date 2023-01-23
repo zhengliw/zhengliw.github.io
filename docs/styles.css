@@ -1,0 +1,8 @@
+body{
+    margin: auto;
+    border-bottom-color: green;
+    border-bottom: 100%;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
